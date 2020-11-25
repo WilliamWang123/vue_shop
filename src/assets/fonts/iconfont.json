@@ -6,6 +6,48 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "7635259",
+      "name": "单据",
+      "font_class": "doc",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "9414041",
+      "name": "商品",
+      "font_class": "goods",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "10557266",
+      "name": "报表",
+      "font_class": "forms",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12933767",
+      "name": "users",
+      "font_class": "users",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "15339900",
+      "name": "Show password",
+      "font_class": "showpswd",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "16239605",
+      "name": "立方体",
+      "font_class": "cube",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
       "icon_id": "3211927",
       "name": "登录",
       "font_class": "user",
